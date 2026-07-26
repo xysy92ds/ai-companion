@@ -1,0 +1,24 @@
+{
+    "name": "🤖 AI Companion",
+    "short_name": "🤖 AI Companion",
+    "description": "通用 AI 伙伴：有记忆、有温度、能外接 API、能触摸互联网",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f0f1e",
+    "theme_color": "#0f0f1e",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/static/assets/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/static/assets/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

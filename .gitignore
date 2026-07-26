@@ -1,0 +1,8 @@
+data/companion.db
+data/uploads/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+.env
+.venv/
